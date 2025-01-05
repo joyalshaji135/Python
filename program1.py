@@ -1,0 +1,17 @@
+"""To input the details of a student(id,name,age,email,phn no,subject,dept)
+To display the details"""
+stu_id=input("Enter the id:")
+stud_name=input("Enter the name :")
+stud_age=input("Enter the age:")
+stud_email=input("Enter the email:")
+stud_phn=input("Enter the phn:")
+stud_sub=input("Enter the subject:")
+stud_dept=input("Enter the dept:")
+
+print("id: "+stu_id)
+print("name: "+stud_name)
+print("age: "+stud_age)
+print("email: "+stud_email)
+print("phn: "+stud_phn)
+print("sub :"+stud_sub)
+print("dept: "+stud_dept)
